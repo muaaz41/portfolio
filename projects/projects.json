@@ -21,7 +21,7 @@
   },
   {
     "name": "Netflix Clone",
-    "desc": "Developed a full-stack Netflix clone using React for the frontend and Node.js for the backend, featuring user authentication and movie searching.",
+    "desc": "Developed a Netflix clone using React for the frontend and Node.js for the backend, featuring user authentication and movie searching.",
     "image": "netflix",  
     "category": "mern",       
     "links": {
@@ -52,7 +52,7 @@
 },
 {
   "name": "Have A Seat App ",
-  "desc": "Developed a mobile application using React Native, featuring real-time data synchronization, user authentication, and an intuitive user interface.",
+  "desc": "Developed a mobile app using React Native,featuring real-time data fetching, user authentication, and an intuitive user interface.",
   "image": "react-native-app",  
   "category": "native",
   "links": {
